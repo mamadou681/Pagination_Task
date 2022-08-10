@@ -1,0 +1,7 @@
+.pagination li {
+  display: inline;
+  margin: 5px;
+}
+.pagination a {
+  color: aqua;
+}
